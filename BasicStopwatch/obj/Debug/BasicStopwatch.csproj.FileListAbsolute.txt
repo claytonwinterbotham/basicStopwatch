@@ -1,0 +1,7 @@
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\bin\Debug\BasicStopwatch.exe.config
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\bin\Debug\BasicStopwatch.exe
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\bin\Debug\BasicStopwatch.pdb
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\obj\Debug\BasicStopwatch.csprojResolveAssemblyReference.cache
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\obj\Debug\BasicStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\obj\Debug\BasicStopwatch.exe
+C:\Users\cwinterbotham\source\repos\BasicStopwatch\BasicStopwatch\obj\Debug\BasicStopwatch.pdb
